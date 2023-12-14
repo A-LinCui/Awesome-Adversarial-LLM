@@ -6,7 +6,7 @@ Please feel free to [pull requests](https://github.com/A-LinCui/Awesome-Adversar
 
 ---
 
-## 2021 Venues
+## 2023 Venues
 
 | Title | Venue | Modality | Task | Knowledge | Goal | Code |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
