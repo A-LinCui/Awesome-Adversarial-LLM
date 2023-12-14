@@ -6,24 +6,44 @@ Please feel free to [pull requests](https://github.com/A-LinCui/Awesome-Adversar
 
 ---
 
+
 # Paper List
 
 ##  Abbreviations
-| Modality | T | V | A |
-|:--------:|:--------:|:--------:|:--------:|
-| Explanation | Text-only | Vision-only | Text-Vision-Both | 
 
-| Task | TC | IC | C | VQA |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Explanation | Text-Classification | Image Caption | General Chat | Visual Question-Answering |
+### Modality
+The modality in which the adversary conducts the attack.
 
-| Knowledge | B | W |
-|:--------:|:--------:|:--------:|
-| Explanation | Block-box | White-Box |
+- **T**: Text-only. Attack the model only through carefully designed input text.
+- **V**: Vision-only. Attack the model only through carefully designed visual input.
+- **A**: Text-and-vision. Attack the model in both text and visual modalities.
 
-| Goal | T | U | J |
-|:--------:|:--------:|:--------:|:--------:|
-| Explanation | Targeted | Untargeted | Jailbreak |
+### Task
+The task on which the experiments are conducted in the original paper. 
+
+- **TC**: Text classification.
+- **IC**: Image caption.
+- **C**: General chat.
+- **VQA**: Visual Question-Answering.
+
+Note:
+- Since a LLM can always accomplish a series of tasks, we only document the tasks in which experiments are conducted in the paper.
+- The following tasks may overlap at some point.
+
+### Adversarial knowledge
+The knowledge of the adversary.
+
+- **W**: White-box.
+- **B**: Block-box.
+
+Note: We categorize the transfer attack, which generates adversarial examples on surrogate model(s) in a white-box manner, as a black-box one. 
+
+### Adversarial goal
+The goal of the adversary.
+
+- **T**: Targeted attack.
+- **U**: Untargeted attack.
+- **J**: Jailbreak.
 
 ## 2023 Venues
 
