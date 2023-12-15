@@ -59,7 +59,7 @@ The goal of the adversary.
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[Generating Valid and Natural Adversarial Examples with Large Language Models](https://arxiv.org/abs/2311.11861)| - | T | QA | B | U | - |
 |[Hijacking Large Language Models via Adversarial In-Context Learning](https://arxiv.org/abs/2311.09948)| - | T | QA | W | T/U | - |
-| [An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/pdf/2310.13345.pdf) | - | T | QA | B | T/U | - |
+| [An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/pdf/2310.13345.pdf) | - | T | QA | B | T/U | [GitHub](https://github.com/GodXuxilie/PromptAttack) |
 | [How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751) | - | V | IC | B | T/U/J | [GitHub](https://github.com/thu-ml/Attack-Bard) |
 | [Image Hijacks: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236) | - | V | C | W | T/J | [GitHub](https://github.com/euanong/image-hijacks) | 
 | [On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741) | - | V | IC/VQA | W | T/U | - |
