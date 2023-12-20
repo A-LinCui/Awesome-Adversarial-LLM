@@ -62,7 +62,7 @@ The goal of the adversary.
 | [An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/pdf/2310.13345.pdf) | - | T | QA | B | T/U | [GitHub](https://github.com/GodXuxilie/PromptAttack) |
 | [How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751) | - | V | IC | B | T/U/J | [GitHub](https://github.com/thu-ml/Attack-Bard) |
 | [Image Hijacks: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236) | - | V | C | W | T/J | [GitHub](https://github.com/euanong/image-hijacks) | 
-| [On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741) | - | V | IC/VQA | W | T/U | - |
+| [On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741) | ICCV | V | IC/VQA | W | T/U | - |
 | [Are aligned neural networks adversarially aligned？](https://arxiv.org/abs/2306.15447)| - | V | IC | W | J | - |
 | [Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://arxiv.org/abs/2306.13213) | - | T/V | C | W | J | [GitHub](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) |
 | [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934) | NeurIPS | V | IC/VQA | B | T | [GitHub](https://github.com/yunqing-me/AttackVLM) |
